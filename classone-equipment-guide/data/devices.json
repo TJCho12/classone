@@ -59,20 +59,6 @@
       "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_iHNpWaEn_a8e9f3bab9e9335d656630c9800b0d318e0ade50.png"
     },
     {
-      "id": "onda-pro",
-      "name": "Onda Lifting PRO",
-      "nameKo": "온다리프팅 PRO",
-      "category": "laser-lifting",
-      "description": ""
-    },
-    {
-      "id": "apr-maxtree",
-      "name": "APR Maxtree",
-      "nameKo": "APR 맥스트리",
-      "category": "laser-lifting",
-      "description": ""
-    },
-    {
       "id": "titanium",
       "name": "Titanium",
       "nameKo": "티타늄",
@@ -152,13 +138,6 @@
       "description": "Delivers radiofrequency energy into deeper skin tissue to support collagen regeneration and improve skin texture.",
       "image": "assets/images/volnewmer.webp",
       "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_kf2Kt0Se_5ef4d90865e4352d9e7861bd93638c2027a7b337.png"
-    },
-    {
-      "id": "fortra",
-      "name": "Fortra",
-      "nameKo": "포트라",
-      "category": "laser-lifting",
-      "description": ""
     },
     {
       "id": "shurink-universe",
@@ -276,6 +255,27 @@
       "description": "An AI skin analysis system that analyzes hydration, elasticity, tone and skin structure to help plan individualized treatment.",
       "image": "assets/images/ai-scanna.webp",
       "imageSource": "https://classoneclinic.com/data/file/total/406e0561c6f25a4fd959bdb15bba7519_Cl6OFI0c_fbd9766003e7a76b280050a7e6aa408095562d13.png"
+    },
+    {
+      "id": "onda-pro",
+      "name": "Onda Lifting PRO",
+      "nameKo": "온다리프팅 PRO",
+      "category": "laser-lifting",
+      "description": ""
+    },
+    {
+      "id": "apr-maxtree",
+      "name": "APR Maxtree",
+      "nameKo": "APR 맥스트리",
+      "category": "laser-lifting",
+      "description": ""
+    },
+    {
+      "id": "fortra",
+      "name": "Fortra",
+      "nameKo": "포트라",
+      "category": "laser-lifting",
+      "description": ""
     },
     {
       "id": "eve-v",
