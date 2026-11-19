@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "clinic": "Class One Clinic",
+    "officialSite": "https://classoneclinic.com/",
+    "sourcePage": "https://classoneclinic.com/classone_equipment.php",
+    "lastUpdated": "2026-11-19"
+  },
+  "categories": [
+    { "id": "laser-lifting", "label": "Laser Lifting", "labelKo": "레이저리프팅" },
+    { "id": "skin-laser", "label": "Skin Laser", "labelKo": "피부레이저" },
+    { "id": "hair-removal", "label": "Hair Removal", "labelKo": "제모" },
+    { "id": "skin-analysis", "label": "Skin Analysis", "labelKo": "피부진단기" }
+  ],
+  "devices": [
+    {
+      "id": "ultherapy-prime",
+      "name": "Ultherapy PRIME",
+      "nameKo": "울쎄라피 프라임",
+      "category": "laser-lifting",
+      "description": "A lifting treatment that addresses facial asymmetry and loss of skin firmness.",
+      "image": "assets/images/ultherapy-prime.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_HgJhlzXL_7e32bb6ed2ca6c51d9d7cf4bb6bc4373bee45286.png"
+    },
+    {
+      "id": "thermage-flx",
+      "name": "Thermage FLX",
+      "nameKo": "써마지FLX",
+      "category": "laser-lifting",
+      "description": "A lifting treatment aimed at firmer skin and a more defined facial contour.",
+      "image": "assets/images/thermage-flx.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_hKULX3yj_347b08752e1acea4a5ef8dbaad65e80d31fc551f.png"
+    },
+    {
+      "id": "onda",
+      "name": "ONDA",
+      "nameKo": "온다리프팅",
+      "category": "laser-lifting",
+      "description": "A lifting treatment that uses microwave energy for collagen remodeling to help restore skin elasticity.",
+      "image": "assets/images/onda.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_iHNpWaEn_a8e9f3bab9e9335d656630c9800b0d318e0ade50.png"
+    },
+    {
+      "id": "titanium",
+      "name": "Titanium",
+      "nameKo": "티타늄",
+      "category": "laser-lifting",
+      "description": "A lifting treatment that uses three wavelengths to improve skin elasticity, tightness and skin tone.",
+      "image": "assets/images/titanium.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_cXuGJtmf_69ed3a6b5943462da75be66d00fb0d974a0df8e0.png"
+    },
+    {
+      "id": "gentlemax-pro-plus",
+      "name": "GentleMax Pro Plus",
+      "nameKo": "젠틀맥스프로플러스",
+      "category": "hair-removal",
+      "description": "A laser hair removal device.",
+      "image": "assets/images/gentlemax-pro-plus.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_zCXf3QhY_5688743840ae4fb512fa94ff60b830edabcfdaac.png"
+    },
+    {
+      "id": "oligio-xm",
+      "name": "Oligio XM",
+      "nameKo": "올리지오XM",
+      "category": "laser-lifting",
+      "description": "A lifting treatment that uses QDRA™ technology to target four depth levels, from the dermis to the SMAS layer, with 13X continuous cooling.",
+      "image": "assets/images/oligio-xm.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/406e0561c6f25a4fd959bdb15bba7519_vh1oWXiu_d3012d65f2b3cf2d1782865f9d71d98ae45bff48.png"
+    },
+    {
+      "id": "xerf",
+      "name": "XERF",
+      "nameKo": "세르프",
+      "category": "laser-lifting",
+      "description": "A lifting treatment that uses multi-frequency monopolar RF to improve skin elasticity and tightness.",
+      "image": "assets/images/xerf.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/406e0561c6f25a4fd959bdb15bba7519_gqSiMuK0_010460b97b166ef1c7666e747cae5793411f0700.png"
+    },
+    {
+      "id": "potenza",
+      "name": "Potenza",
+      "nameKo": "포텐자",
+      "category": "laser-lifting",
+      "description": "A needle RF treatment that delivers radiofrequency energy to the dermis or epidermis through microneedles to improve the skin.",
+      "image": "assets/images/potenza.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_1eCxDc7j_d8573f418e3b4c90cf574d07ee989e45631687cb.png"
+    },
+    {
+      "id": "v-ro",
+      "name": "V-RO",
+      "nameKo": "브이로",
+      "category": "laser-lifting",
+      "description": "A lifting treatment that uses radiofrequency and ultrasound at the same time, aimed at a more defined facial contour.",
+      "image": "assets/images/v-ro.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_NX2SIKZH_a8cca4e39458ecf73505783026cfd862807b7b6a.png"
+    },
+    {
+      "id": "picohi",
+      "name": "PicoHi",
+      "nameKo": "피코하이",
+      "category": "skin-laser",
+      "description": "A laser device used for melasma, blemishes and tattoo removal.",
+      "image": "assets/images/picohi.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_fVSlqkCj_992d5fc4c2369319b63cea7ad9d5a15e570f7413.png"
+    },
+    {
+      "id": "reepot",
+      "name": "Reepot Laser",
+      "nameKo": "리팟레이저",
+      "category": "skin-laser",
+      "description": "A laser device used to treat lentigines (dark spots) and seborrheic keratoses (age spots).",
+      "image": "assets/images/reepot.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_2nH5Av04_65568d3d363bd733b2e061263aeb4e57984f4428.png"
+    },
+    {
+      "id": "volnewmer",
+      "name": "Volnewmer",
+      "nameKo": "볼뉴머",
+      "category": "laser-lifting",
+      "description": "Delivers radiofrequency energy into deeper skin tissue to support collagen regeneration and improve skin texture.",
+      "image": "assets/images/volnewmer.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_kf2Kt0Se_5ef4d90865e4352d9e7861bd93638c2027a7b337.png"
+    },
+    {
+      "id": "shurink-universe",
+      "name": "Shurink Universe",
+      "nameKo": "슈링크유니버스",
+      "category": "laser-lifting",
+      "description": "Uses ultrasound energy to target the fascia beneath sagging skin, supporting collagen regeneration and skin elasticity.",
+      "image": "assets/images/shurink-universe.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_H36RqD0x_eda50fef513ecba35653f1f7b1cb3b42dcc23217.png"
+    },
+    {
+      "id": "emface",
+      "name": "EMFACE",
+      "nameKo": "엠페이스",
+      "category": "laser-lifting",
+      "description": "A lifting treatment that works on the skin and the muscle layer at the same time to improve firmness.",
+      "image": "assets/images/emface.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_fpEwAN9O_8a3c2bbe8ba7dd67630ac577d5b6c7175bb421de.png"
+    },
+    {
+      "id": "coolsoniq",
+      "name": "COOLSONIQ",
+      "nameKo": "쿨소닉",
+      "category": "laser-lifting",
+      "description": "A lifting treatment that uses focused ultrasound energy to stimulate the regeneration of collagen and elastic fibers in the skin.",
+      "image": "assets/images/coolsoniq.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_tBAPyFpi_36cd1b63822ebadb748cce97cf02dc9157387c93.png"
+    },
+    {
+      "id": "icon",
+      "name": "Icon Laser",
+      "nameKo": "아이콘레이저",
+      "category": "skin-laser",
+      "description": "",
+      "image": "assets/images/icon.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_C7e6RXtH_dcff68e680521286acc82fbd9e04a6a1eaa270a4.png"
+    },
+    {
+      "id": "quadessy",
+      "name": "Quadessy",
+      "nameKo": "쿼드세이",
+      "category": "skin-laser",
+      "description": "",
+      "image": "assets/images/quadessy.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_SezHRDVp_93f06ac38c731e5122e4ed46caf6747cf56dd82b.png"
+    },
+    {
+      "id": "alltite",
+      "name": "Alltite",
+      "nameKo": "올타이트",
+      "category": "laser-lifting",
+      "description": "Delivers concentrated radiofrequency energy to help lift the skin and improve elasticity.",
+      "image": "assets/images/alltite.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_zrNaPDsK_7f7927383fb4b7b8714372c10c9dbb63342fcdeb.png"
+    },
+    {
+      "id": "synerjet",
+      "name": "Synerjet",
+      "nameKo": "시너젯",
+      "category": "skin-laser",
+      "description": "A skin booster device that uses micro-jet, microcurrent and low-temperature plasma to enhance absorption into the skin.",
+      "image": "assets/images/synerjet.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_LkXQjSP8_f95b876d9bd496be55aa000ca60996e15b5dcb95.png"
+    },
+    {
+      "id": "dermashine-pro",
+      "name": "Dermashine Pro",
+      "nameKo": "더마샤인프로",
+      "category": "skin-laser",
+      "description": "An injection device that delivers skin boosters and other medications evenly into the dermis.",
+      "image": "assets/images/dermashine-pro.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_PzQgqNFl_caa9705183c3d651ac1eaa086ab2fbf08d4cc256.png"
+    },
+    {
+      "id": "picoalex",
+      "name": "PicoAlex",
+      "nameKo": "피코알렉스",
+      "category": "skin-laser",
+      "description": "Delivers a uniform laser beam to pigmented areas and can be used to treat complex pigmentation conditions.",
+      "image": "assets/images/picoalex.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_bqgvnQFB_878e5f5852fdd8b50813fc56effa88ef91978a70.png"
+    },
+    {
+      "id": "v-laser",
+      "name": "V-Laser",
+      "nameKo": "V레이저",
+      "category": "skin-laser",
+      "description": "A skin-improvement laser that uses dual wavelengths and three modes, adjusted to each person's skin.",
+      "image": "assets/images/v-laser.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_z895T3gC_a50db89ac85c77046b04dc17b14ef9378a20aafb.png"
+    },
+    {
+      "id": "pastel",
+      "name": "Pastel Laser",
+      "nameKo": "파스텔",
+      "category": "skin-laser",
+      "description": "A pigment-removal laser with a PTP mode, used for pigmented lesions that tend to recur.",
+      "image": "assets/images/pastel.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_knRhxPyl_4148a3aad22af6074fd702cbd8b5b6c6ccaa57c5.png"
+    },
+    {
+      "id": "avio",
+      "name": "Avio Laser",
+      "nameKo": "아비오레이저",
+      "category": "skin-laser",
+      "description": "A fractional CO₂ laser that creates tiny openings in the skin surface to trigger the skin's repair response and promote collagen regeneration.",
+      "image": "assets/images/avio.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/b0d9389d957f295d1148aa2b15b649f2_tTGI0Nu5_c3056e67166cfe4ea489e2edc1d2c24b29ebf4aa.png"
+    },
+    {
+      "id": "ai-scanna",
+      "name": "AI Scanna",
+      "nameKo": "AI 스케나",
+      "category": "skin-analysis",
+      "description": "An AI skin analysis system that analyzes hydration, elasticity, tone and skin structure to help plan individualized treatment.",
+      "image": "assets/images/ai-scanna.webp",
+      "imageSource": "https://classoneclinic.com/data/file/total/406e0561c6f25a4fd959bdb15bba7519_Cl6OFI0c_fbd9766003e7a76b280050a7e6aa408095562d13.png"
+    }
+  ]
+}

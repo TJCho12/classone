@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Class One Clinic – Aesthetic Equipment Guide</title>
+  <meta name="description" content="Explore the technologies available at Class One Clinic in Seoul, Korea.">
+  <meta property="og:title" content="Class One Clinic – Aesthetic Equipment Guide">
+  <meta property="og:description" content="Explore the technologies available at Class One Clinic in Seoul, Korea.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#FAF8F3">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="brand">CLASS ONE CLINIC</p>
+      <h1>Aesthetic Equipment Guide</h1>
+      <p class="tagline">Explore the technologies available at Class One Clinic in Seoul, Korea.</p>
+      <a class="official-link" href="https://classoneclinic.com/" target="_blank" rel="noopener">Visit the official website</a>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="controls">
+      <label class="search">
+        <span class="visually-hidden">Search devices</span>
+        <input id="search" type="search" placeholder="Search device, technology, concern" autocomplete="off" enterkeyhint="search">
+      </label>
+      <nav class="filters" id="filters" aria-label="Device categories"></nav>
+    </div>
+
+    <p class="result-count" id="result-count" aria-live="polite"></p>
+    <section class="grid" id="grid" aria-label="Devices"></section>
+    <p class="empty" id="empty" hidden>No devices match your search.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>This independent equipment guide is provided for informational purposes only and is not an official website of Class One Clinic.</p>
+      <p>Treatment suitability, expected results, discomfort, and recovery time vary depending on individual skin conditions and treatment protocols.</p>
+      <p>We recommend consulting a qualified medical professional to determine the most appropriate treatment for your skin.</p>
+      <p class="footer-meta">
+        <a href="https://classoneclinic.com/" target="_blank" rel="noopener">Official website</a>
+        <span aria-hidden="true">·</span>
+        <span>Last updated: <time id="last-updated"></time></span>
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
