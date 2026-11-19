@@ -44,4 +44,4 @@ All device names, images and descriptions in `data/devices.json` come from these
 
 ## English device names
 
-English names follow the clinic's intro page where it differs only for the three names above. Other names use the spellings set on 2026-11-19 (for example Ultherapy PRIME, COOLSONIQ, EMFACE, PicoHi), which differ in capitalization or spacing from the intro page (Ultherapy Prime, CoolSoniq, Emface, Pico Hi).
+All English names follow the clinic's own English spelling on the intro page. On 2026-11-19 these were aligned: Ultherapy PRIME → Ultherapy Prime, ONDA → Onda Lifting, COOLSONIQ → CoolSoniq, EMFACE → Emface, PicoHi → Pico Hi, PicoAlex → Pico Alex, V-Laser → V Laser.

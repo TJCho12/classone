@@ -33,7 +33,7 @@
   "devices": [
     {
       "id": "ultherapy-prime",
-      "name": "Ultherapy PRIME",
+      "name": "Ultherapy Prime",
       "nameKo": "울쎄라피 프라임",
       "category": "laser-lifting",
       "description": "A lifting treatment that addresses facial asymmetry and loss of skin firmness.",
@@ -51,7 +51,7 @@
     },
     {
       "id": "onda",
-      "name": "ONDA",
+      "name": "Onda Lifting",
       "nameKo": "온다리프팅",
       "category": "laser-lifting",
       "description": "A lifting treatment that uses microwave energy for collagen remodeling to help restore skin elasticity.",
@@ -128,7 +128,7 @@
     },
     {
       "id": "picohi",
-      "name": "PicoHi",
+      "name": "Pico Hi",
       "nameKo": "피코하이",
       "category": "skin-laser",
       "description": "A laser device used for melasma, blemishes and tattoo removal.",
@@ -171,7 +171,7 @@
     },
     {
       "id": "emface",
-      "name": "EMFACE",
+      "name": "Emface",
       "nameKo": "엠페이스",
       "category": "laser-lifting",
       "description": "A lifting treatment that works on the skin and the muscle layer at the same time to improve firmness.",
@@ -180,7 +180,7 @@
     },
     {
       "id": "coolsoniq",
-      "name": "COOLSONIQ",
+      "name": "CoolSoniq",
       "nameKo": "쿨소닉",
       "category": "laser-lifting",
       "description": "A lifting treatment that uses focused ultrasound energy to stimulate the regeneration of collagen and elastic fibers in the skin.",
@@ -234,7 +234,7 @@
     },
     {
       "id": "picoalex",
-      "name": "PicoAlex",
+      "name": "Pico Alex",
       "nameKo": "피코알렉스",
       "category": "skin-laser",
       "description": "Delivers a uniform laser beam to pigmented areas and can be used to treat complex pigmentation conditions.",
@@ -243,7 +243,7 @@
     },
     {
       "id": "v-laser",
-      "name": "V-Laser",
+      "name": "V Laser",
       "nameKo": "V레이저",
       "category": "skin-laser",
       "description": "A skin-improvement laser that uses dual wavelengths and three modes, adjusted to each person's skin.",
