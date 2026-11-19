@@ -8,7 +8,20 @@ Checked: 2026-11-19. 25 devices listed.
 
 Category tabs on the page: 전체, 레이저리프팅 (code=100, 13 devices), 피부레이저 (code=200, 10), 제모 (code=300, 1), 피부진단기 (code=400, 1).
 
-All device names, images and descriptions in `data/devices.json` come from this page only. Images are used with the clinic's permission.
+Class One Clinic – intro page (English version)
+https://classoneclinic.com/intro/
+Checked: 2026-11-19. 28 devices listed (Lifting 15, Skin Laser 9, Hair Removal 1, Diagnosis 3).
+
+Official website: https://classoneclinicseoul.com/
+
+All device names, images and descriptions in `data/devices.json` come from these two clinic pages only. Images are used with the clinic's permission.
+
+## 2026-11-19 update
+
+- Added 5 devices listed on the intro page but not on the equipment page: Onda Lifting PRO, APR Maxtree, Fortra, Eve V, 3D Vectra. The intro page has no device images for them, so their cards show the name only.
+- Eve V and 3D Vectra descriptions are from the intro page's diagnostics paragraph. Onda Lifting PRO, APR Maxtree and Fortra have no description on either page.
+- Icon Laser and Quadessy are on the equipment page only and are kept.
+- Changed three English names to the clinic's own English spelling on the intro page: Pastel Laser → Pastel, Avio Laser → Avvio Laser, AI Scanna → SKENA AI.
 
 ## Translation policy
 
@@ -31,4 +44,4 @@ All device names, images and descriptions in `data/devices.json` come from this 
 
 ## English device names
 
-English names are the commonly used spellings of the Korean names on the clinic page. These three couldn't be confirmed and should be checked with the clinic: Pastel Laser (파스텔), Avio Laser (아비오레이저), AI Scanna (AI 스케나).
+English names follow the clinic's intro page where it differs only for the three names above. Other names use the spellings set on 2026-11-19 (for example Ultherapy PRIME, COOLSONIQ, EMFACE, PicoHi), which differ in capitalization or spacing from the intro page (Ultherapy Prime, CoolSoniq, Emface, Pico Hi).
