@@ -42,6 +42,13 @@ All device names, images and descriptions in `data/devices.json` come from these
 - V-Laser: 내 피부에 딱 맞는 (translated neutrally as "adjusted to each person's skin")
 - Pastel Laser: 깨끗하게
 
+## 2026-11-19 update (clinic confirmation)
+
+- The clinic confirmed that the Korean equipment page is the reference list, and that Fortra, Eve V and 3D Vectra belong under 피부진단기 (Skin Analysis).
+- Removed Onda Lifting PRO and APR Maxtree, which are not on the Korean equipment page.
+- Moved Fortra from Lifting to Skin Analysis.
+- Device count: 28 (Korean page 25 + Fortra, Eve V, 3D Vectra). Laser Lifting 13, Skin Laser 10, Hair Removal 1, Skin Analysis 4.
+
 ## English device names
 
 All English names follow the clinic's own English spelling on the intro page. On 2026-11-19 these were aligned: Ultherapy PRIME → Ultherapy Prime, ONDA → Onda Lifting, COOLSONIQ → CoolSoniq, EMFACE → Emface, PicoHi → Pico Hi, PicoAlex → Pico Alex, V-Laser → V Laser.

@@ -257,24 +257,10 @@
       "imageSource": "https://classoneclinic.com/data/file/total/406e0561c6f25a4fd959bdb15bba7519_Cl6OFI0c_fbd9766003e7a76b280050a7e6aa408095562d13.png"
     },
     {
-      "id": "onda-pro",
-      "name": "Onda Lifting PRO",
-      "nameKo": "온다리프팅 PRO",
-      "category": "laser-lifting",
-      "description": ""
-    },
-    {
-      "id": "apr-maxtree",
-      "name": "APR Maxtree",
-      "nameKo": "APR 맥스트리",
-      "category": "laser-lifting",
-      "description": ""
-    },
-    {
       "id": "fortra",
       "name": "Fortra",
       "nameKo": "포트라",
-      "category": "laser-lifting",
+      "category": "skin-analysis",
       "description": ""
     },
     {
